@@ -37,7 +37,7 @@ Disallow: */*/feed/*/
 Disallow: */feed
 Disallow: /*?*
 Disallow: /?s=
-Host: site.ru
+Host: grisershop.github.io
 
-Sitemap: http://site.ru/sitemap.xml.gz
-Sitemap: http://site.ru/sitemap.xml
+Sitemap: http://grisershop.github.io/sitemap.xml.gz
+Sitemap: http://grisershop.github.io/sitemap.xml
